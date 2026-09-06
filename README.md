@@ -1,5 +1,13 @@
 # AQIonic - Air Quality Intelligence Platform
 
+## Run the Streamlit submission dashboard
+
+```powershell
+streamlit run streamlit_app.py
+```
+
+The Streamlit dashboard mirrors the React navigation and visual language: the dashboard/72-hour forecast, AI Copilot, city comparison, EDA, model benchmarks, feature store, SHAP what-if simulator, and health advisories. Run the Flask API separately with `python app.py`.
+
 > **Production-Grade MLOps and data science Platform for Atmospheric Telemetry Ingestion, 1+ Year Feature Engineering, Dual Feature Stores (SQLite & Hopsworks Cloud), Stacking Champion Ensemble Modeling, and Real-Time Air Quality Analytics.**
 
 ---
