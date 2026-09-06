@@ -1,12 +1,29 @@
 # AQIonic - Air Quality Intelligence Platform
 
+## Run the Vercel submission dashboard
+
+https://aqionic-aqi-predictor.vercel.app/
+<br><br>
+## overview:
+<br><br>
+<img width="1050" height="458" alt="image" src="https://github.com/user-attachments/assets/165430fb-878a-4892-baed-14471b91e807" />
+
+
 ## Run the Streamlit submission dashboard
 
 ```powershell
 streamlit run streamlit_app.py
 ```
+https://aqionicaqipredictor-cefpyinxjymwsmmpjqqtga.streamlit.app/
+<br><br>
+## overview:
+<br><br>
+<img width="1276" height="507" alt="image" src="https://github.com/user-attachments/assets/f492c757-9544-4f2a-8a06-fdfb886ae0bf" />
+
 
 The Streamlit dashboard mirrors the React navigation and visual language: the dashboard/72-hour forecast, AI Copilot, city comparison, EDA, model benchmarks, feature store, SHAP what-if simulator, and health advisories. Run the Flask API separately with `python app.py`.
+## Internship Report:
+[Final_AQIonic_Internship_Report .pdf](https://github.com/user-attachments/files/31875480/Final_AQIonic_Internship_Report.pdf)
 
 > **Production-Grade MLOps and data science Platform for Atmospheric Telemetry Ingestion, 1+ Year Feature Engineering, Dual Feature Stores (SQLite & Hopsworks Cloud), Stacking Champion Ensemble Modeling, and Real-Time Air Quality Analytics.**
 
