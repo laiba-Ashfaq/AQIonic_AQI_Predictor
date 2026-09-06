@@ -1,0 +1,10 @@
+{
+  "name": "AQIonic Air Quality Intelligence",
+  "description": "Interactive serverless Air Quality Index (AQI) forecasting dashboard with real-time pollutant monitoring, 3-day ML predictions, EDA trends, AI Copilot Chatbot, Multi-City comparisons, SHAP feature importance, and pipeline orchestration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
